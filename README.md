@@ -27,3 +27,16 @@ isClaim - необходимо поставить на false, если втор�
 ```
 node main.js
 ```
+
+---
+
+## Other Projects by Author
+
+More work by [@sm1ck](https://github.com/sm1ck):
+
+- **[HoneyChat](https://honeychat.bot)** ([GitHub](https://github.com/sm1ck/honeychat) · [@HoneyChatAIBot](https://t.me/HoneyChatAIBot)) — production AI companion platform accepting on-chain **TON / BTC / ETH / USDT via CryptoBot** alongside card payments (Paddle / Stripe / PayPal). If you've been exploring LayerZero cross-chain flows, the [TON payment integration case study](docs/case-studies/honeychat-ton-payments.md) in this repo covers the practical side — webhook idempotency, dual-rail (crypto + fiat), geo-arbitrage pricing for regions where cards don't work well (RU / KZ / BY).
+- [snapshotvoter](https://github.com/sm1ck/snapshotvoter) — Automated governance voting on snapshot.org
+- [TestnetBridge](https://github.com/sm1ck/TestnetBridge) — LayerZero bridge implementation in Rust
+- [awesome-telegram-ai-bots](https://github.com/sm1ck/awesome-telegram-ai-bots) — Curated list
+
+Contact: [t.me/haruto_j](https://t.me/haruto_j)
